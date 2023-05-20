@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\bin\Debug\jogoDaVelhaUnisanta.exe.config
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\bin\Debug\jogoDaVelhaUnisanta.exe
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\bin\Debug\jogoDaVelhaUnisanta.pdb
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.Form1.resources
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.Properties.Resources.resources
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.exe
+C:\Users\unisanta\Desktop\jogoDaVelhaUnisanta\jogoDaVelhaUnisanta\obj\Debug\jogoDaVelhaUnisanta.pdb
